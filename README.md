@@ -1,6 +1,6 @@
-## UniExplorer Project
+## UniList Project
 
-UniExplorer is a web application that allows users to explore universities from different countries. It provides information about universities, including their names, flags, and web pages. The project is built using React and Bootstrap.
+UniList is a web application that allows users to explore universities from different countries. It provides information about universities, including their names, flags, and web pages. The project is built using React and Bootstrap.
 
 ## Table of Contents
 
@@ -24,8 +24,7 @@ UniExplorer is a web application that allows users to explore universities from 
 
    ```bash
    git clone https://github.com/your-username/unilist.git
-
-```
+   ```
 
 2.Change into project directory:
 
@@ -75,4 +74,14 @@ git commit -m 'Add new feature'
 git push origin feature/new-feature
 
 ```
-5. **Send a pull request **
+5. **Send a pull request**
+
+## Images
+
+
+![Screenshot 2023-12-11 175536](https://github.com/swarupe7/unilist/assets/85427735/6d191993-ae76-4acf-98a9-3994fcd1cdf9)
+
+![Screenshot 2023-12-11 175947](https://github.com/swarupe7/unilist/assets/85427735/445af354-0f14-4933-8f41-a9672f421fed)
+
+
+
