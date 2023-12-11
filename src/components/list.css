@@ -1,0 +1,30 @@
+.toast-overlay {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+  }
+  
+  .toast-overlay.show {
+    display: block;
+  }
+
+  .glassmorphic-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(10px);
+    z-index: 9998;
+  }
+  
+  .glassmorphic-overlay.show {
+    display: block;
+  }
+  
+
+ 
