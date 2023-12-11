@@ -1,6 +1,6 @@
 ## UniList Project
 
-UniList is a web application that allows users to explore universities from different countries. It provides information about universities, including their names, flags, and web pages. The project is built using React and Bootstrap.
+UniList is a web application that allows users to explore universities from different countries. It provides information about universities, including their names, flags, and web pages. The project is built using React and React-Bootstrap.
 
 ## Table of Contents
 
@@ -22,9 +22,9 @@ UniList is a web application that allows users to explore universities from diff
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/unilist.git
-   ```
+```bash
+git clone https://github.com/swarupe7/unilist.git
+```
 
 2.Change into project directory:
 
@@ -60,9 +60,9 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 2. **Create a new branch:**
 
-   ```bash
-   git checkout -b feature/new-feature
-   ```
+```bash
+git checkout -b feature/new-feature
+```
 3. **Make Your Changes and commit :**
 
 ```bash
@@ -78,8 +78,13 @@ git push origin feature/new-feature
 
 ## Images
 
+![Screenshot 2023-12-11 184502](https://github.com/swarupe7/unilist/assets/85427735/8cdcb4ba-cac3-4cb8-93b8-db04990f1584)
 
-![Screenshot 2023-12-11 175536](https://github.com/swarupe7/unilist/assets/85427735/6d191993-ae76-4acf-98a9-3994fcd1cdf9)
+
+
+
+
+
 
 ![Screenshot 2023-12-11 175947](https://github.com/swarupe7/unilist/assets/85427735/445af354-0f14-4933-8f41-a9672f421fed)
 
